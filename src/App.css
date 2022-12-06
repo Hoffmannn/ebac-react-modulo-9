@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column; 
+  justify-content: center;
+  align-items: center; 
+}
+
+input, select {
+  margin-top: 5px;
+  margin-bottom: 8px;
+}
+
+.success {
+  color: rgb(39, 204, 39);
+}
+
+.error {
+  color: rgb(253, 39, 39);
+}
